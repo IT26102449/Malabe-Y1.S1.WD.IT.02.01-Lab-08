@@ -46,6 +46,6 @@ public class IT26102449Lab8Q3 {
 
         System.out.println("\nThe Maximum Number Entered: " + max);
 
-        input.close();
+    
     }
 }
