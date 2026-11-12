@@ -37,6 +37,6 @@ public class IT26102449Lab8Q1B {
             System.out.print(evenArray[i] + " ");
         }
 
-        input.close();
+    
     }
 }
