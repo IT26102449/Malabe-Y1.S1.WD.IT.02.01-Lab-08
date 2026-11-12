@@ -20,6 +20,6 @@ public class IT26102449Lab8Q1A {
             System.out.print(myArray[i] + " ");
         }
 
-        input.close();
+    
     }
 }
