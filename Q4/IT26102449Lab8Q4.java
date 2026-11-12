@@ -49,6 +49,6 @@ public class IT26102449Lab8Q4 {
             System.out.println("\nStudent is Not Available");
         }
 
-        input.close();
+    
     }
 }
